@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1079657482980",
+    "project_id": "voting-app-8b090",
+    "storage_bucket": "voting-app-8b090.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079657482980:android:87309883b170e107a67af1",
+        "android_client_info": {
+          "package_name": "rparas.voting_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079657482980-us0strhleopeliturbr2isq39eamkvgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcD2-8o6NxuVf_y4b0nyITrhUvH6DOE5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079657482980-us0strhleopeliturbr2isq39eamkvgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
